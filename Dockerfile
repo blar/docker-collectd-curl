@@ -1,4 +1,4 @@
-FROM foobox/collectd-librato:1.0
+FROM foobox/collectd-librato:latest
 LABEL maintainer="gmblar+github@gmail.com"
 
 COPY src /
